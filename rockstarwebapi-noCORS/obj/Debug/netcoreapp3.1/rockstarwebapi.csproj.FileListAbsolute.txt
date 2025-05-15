@@ -1,0 +1,78 @@
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.exe
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.deps.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.dev.json
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.csprojAssemblyReference.cache
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.Manifest.cache
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.xml
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfoInputs.cache
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfo.cs
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.RazorTargetAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.fa20\Lecture 2\class\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.exe
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.deps.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.dev.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\bin\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.csprojAssemblyReference.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfoInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfo.cs
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.csproj.CoreCompileInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.RazorTargetAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.Manifest.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.xml
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi\obj\Debug\netcoreapp3.1\rockstarwebapi.genruntimeconfig.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.exe
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.deps.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.dev.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.csprojAssemblyReference.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfoInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfo.cs
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.csproj.CoreCompileInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.RazorTargetAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.Manifest.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.xml
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-withCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.genruntimeconfig.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.exe
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.deps.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.runtimeconfig.dev.json
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\bin\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.csprojAssemblyReference.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfoInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.AssemblyInfo.cs
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.csproj.CoreCompileInputs.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.RazorTargetAssemblyInfo.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.Manifest.cache
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\staticwebassets\rockstarwebapi.StaticWebAssets.xml
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.dll
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.pdb
+D:\user\docs\NU\_Csye7220.su24\Lecture 2 - new\labs\rockstarwebapi-noCORS\obj\Debug\netcoreapp3.1\rockstarwebapi.genruntimeconfig.cache

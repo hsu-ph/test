@@ -1,0 +1,164 @@
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.exe
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.deps.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.dev.json
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.dll
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csprojAssemblyReference.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.Manifest.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.xml
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.MvcApplicationPartsAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfoInputs.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.input.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.output.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorCoreGenerate.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CopyComplete
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.fa20/Lecture 2/class/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.exe
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.deps.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.dev.json
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.dll
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csprojAssemblyReference.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfoInputs.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CoreCompileInputs.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.MvcApplicationPartsAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.input.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.output.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorCoreGenerate.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith2.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.Manifest.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.xml
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.genruntimeconfig.cache
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CopyComplete
+D:/user/docs/NU/_Csye7220.su24/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith3.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.exe
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.deps.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.dev.json
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.dll
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csprojAssemblyReference.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfoInputs.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CoreCompileInputs.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.MvcApplicationPartsAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.input.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.output.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorCoreGenerate.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith2.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith3.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Index.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cs
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.Manifest.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.xml
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.dll
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.pdb
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.genruntimeconfig.cache
+D:/user/docs/NU/_Csye7220.su25/Lecture 2 - new/labs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CopyComplete
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.StaticWebAssets.xml
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.deps.json
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.json
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.runtimeconfig.dev.json
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.dll
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.pdb
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.dll
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/bin/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfoInputs.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.AssemblyInfo.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.csproj.CoreCompileInputs.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorAssemblyInfo.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.input.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.TagHelpers.output.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorCoreGenerate.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith2.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Faith3.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/RockStar/Index.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.RazorTargetAssemblyInfo.cs
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.Views.pdb
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.Manifest.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/rockstarmvc.StaticWebAssets.Pack.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.rockstarmvc.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.rockstarmvc.props
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.rockstarmvc.props
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.rockstarmvc.props
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.dll
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.pdb
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstarmvc.genruntimeconfig.cache
+/Users/xupeihan/Documents/CSYE7220/Lecture 2/dotnetlabs/rockstarmvc/obj/Debug/netcoreapp3.1/rockstar.FAF22CBB.Up2Date
